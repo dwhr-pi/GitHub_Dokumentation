@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 
-### 1. Einführung in GitHubnfuehrung.md)
+### 1. Einführung in GitHub
 - [Was ist GitHub?](01_einfuehrung.md#Was_ist_GitHub)
 - [Geschichte und Entwicklung](01_einfuehrung.md#Geschichte_und_Entwicklung)
 - [GitHub vs. andere Versionskontrollsysteme](01_einfuehrung.md#GitHub_vs._andere_Versionskontrollsysteme)
