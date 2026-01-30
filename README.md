@@ -2,19 +2,20 @@
 
 ## Inhaltsverzeichnis
 
-### 1. [Einführung in GitHub](01_einfuehrung.md)
+### 1. Einführung in GitHubnfuehrung.md)
 - [Was ist GitHub?](01_einfuehrung.md#Was_ist_GitHub)
 - [Geschichte und Entwicklung](01_einfuehrung.md#Geschichte_und_Entwicklung)
 - [GitHub vs. andere Versionskontrollsysteme](01_einfuehrung.md#GitHub_vs._andere_Versionskontrollsysteme)
 - [Warum GitHub nutzen?](01_einfuehrung.md#Warum_GitHub_nutzen)
 
 ### 2. Installation und Einrichtung
-- Konto erstellen
-- Profil einrichten
-- Authentifizierung und Sicherheit
-- GitHub Desktop installieren
-- Git-Kommandozeile einrichten
-- SSH-Schlüssel einrichten
+- [Konto erstellen](02_installation_und_einrichtung.md#Konto_erstellen)
+- [Profil einrichten](02_installation_und_einrichtung.md#Profil einrichten)
+- [Authentifizierung und Sicherheit](02_installation_und_einrichtung.md#Authentifizierung_und_Sicherheit)
+- [GitHub Desktop installieren](02_installation_und_einrichtung.md#GitHub_Desktop_installieren])
+- [Git-Kommandozeile einrichten](02_installation_und_einrichtung.md#Git-Kommandozeile_einrichten)
+- [SSH-Schlüssel einrichten](02_installation_und_einrichtung.md#SSH-Schlüssel_einrichten)
+- [Fazit](02_installation_und_einrichtung.md#Fazit)
 
 ### 3. Grundlegende Konzepte
 - Repositories

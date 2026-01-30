@@ -1,5 +1,14 @@
 # 2. Installation und Einrichtung
 
+- [Konto erstellen](#Konto_erstellen)
+- [Profil einrichten](#Profil_einrichten)
+- [Authentifizierung und Sicherheit](#Authentifizierung_und_Sicherheit)
+- [GitHub Desktop installieren](#GitHub_Desktop_installieren)
+- [Git-Kommandozeile einrichten](#Git-Kommandozeile_einrichten)
+- [SSH-Schlüssel einrichten](#Git-Kommandozeile_einrichten)
+- [Fazit](#Fazit)
+
+<A name="Konto_erstellen"></A>
 ## Konto erstellen
 
 Die Nutzung von GitHub beginnt mit der Erstellung eines persönlichen Kontos. Ein GitHub-Konto ist Ihre digitale Identität innerhalb der GitHub-Community und bildet die Grundlage für alle Ihre Aktivitäten auf der Plattform.
@@ -48,6 +57,7 @@ GitHub bietet verschiedene Pläne für unterschiedliche Bedürfnisse:
 
 Neben persönlichen Konten gibt es auch Organisationskonten, die für Teams und Unternehmen gedacht sind. Organisationskonten ermöglichen eine feinere Kontrolle über den Zugriff auf Repositories und bieten zusätzliche Funktionen für die Teamzusammenarbeit.
 
+<A name="Profil_einrichten"></A>
 ## Profil einrichten
 
 Nach der Erstellung Ihres GitHub-Kontos ist es wichtig, Ihr Profil einzurichten, um sich der Community vorzustellen und Ihre Arbeit zu präsentieren.
@@ -92,6 +102,7 @@ Um eine Profil-README zu erstellen:
 
 Die README-Datei wird nun automatisch auf Ihrer Profilseite angezeigt und kann verwendet werden, um sich auf kreative Weise vorzustellen.
 
+<A name="Authentifizierung_und_Sicherheit"></A>
 ## Authentifizierung und Sicherheit
 
 Die Sicherheit Ihres GitHub-Kontos ist von entscheidender Bedeutung, insbesondere wenn Sie an wichtigen Projekten arbeiten oder sensiblen Code verwalten.
@@ -133,6 +144,7 @@ Um ein persönliches Zugriffstoken zu erstellen:
 
 5. Kopieren Sie das Token und speichern Sie es an einem sicheren Ort. Aus Sicherheitsgründen wird GitHub das Token nicht erneut anzeigen.
 
+<A name="SSH-Schlüssel_einrichten"></A>
 ### SSH-Schlüssel einrichten
 
 SSH-Schlüssel bieten eine sichere Möglichkeit, sich bei GitHub zu authentifizieren, ohne jedes Mal Ihren Benutzernamen und Ihr Passwort eingeben zu müssen. Sie sind besonders nützlich für die Interaktion mit GitHub über die Befehlszeile.
@@ -170,6 +182,7 @@ Um einen SSH-Schlüssel einzurichten:
 
 10. Klicken Sie auf "SSH-Schlüssel hinzufügen", um den Vorgang abzuschließen.
 
+<A name=""></A>
 ## GitHub Desktop installieren
 
 GitHub Desktop ist eine benutzerfreundliche Anwendung, die es Ihnen ermöglicht, mit GitHub zu interagieren, ohne Befehlszeilenbefehle verwenden zu müssen. Es ist ideal für Anfänger und für diejenigen, die eine visuelle Oberfläche bevorzugen.
@@ -216,6 +229,7 @@ Nach der Installation und Anmeldung können Sie GitHub Desktop verwenden, um:
 
 GitHub Desktop bietet eine intuitive Oberfläche für diese Aufgaben und ist ein ausgezeichnetes Tool für Anfänger, die mit Git und GitHub beginnen.
 
+<A name="Git-Kommandozeile_einrichten"></A>
 ## Git-Kommandozeile einrichten
 
 Während GitHub Desktop eine benutzerfreundliche Oberfläche bietet, bevorzugen viele Entwickler die Flexibilität und Kontrolle der Git-Kommandozeile. Die Einrichtung von Git auf Ihrem System ist ein wichtiger Schritt, um mit GitHub über die Befehlszeile zu interagieren.
@@ -302,7 +316,7 @@ Nach der Installation müssen Sie Git mit Ihren Benutzerinformationen konfigurie
 
 Um mit GitHub über die Befehlszeile zu interagieren, müssen Sie eine Authentifizierungsmethode einrichten. Die empfohlenen Methoden sind:
 
-1. **SSH-Authentifizierung**: Wie im Abschnitt "SSH-Schlüssel einrichten" beschrieben.
+1. **SSH-Authentifizierung**: Wie im Abschnitt "[SSH-Schlüssel einrichten]#SSH-Schlüssel_einrichten)" beschrieben.
 
 2. **HTTPS mit Credential Helper**:
    - Unter Windows:
@@ -337,6 +351,7 @@ Hier sind einige grundlegende Git-Befehle, die Sie kennen sollten:
 
 Diese Befehle bilden die Grundlage für die Arbeit mit Git und GitHub über die Befehlszeile.
 
+<A name="Fazit"></A>
 ## Fazit
 
 Die richtige Einrichtung Ihres GitHub-Kontos und Ihrer Entwicklungsumgebung ist ein wichtiger erster Schritt für eine erfolgreiche Nutzung von GitHub. Mit einem gut konfigurierten Konto, starken Sicherheitsmaßnahmen und den richtigen Tools können Sie die volle Leistungsfähigkeit von GitHub nutzen.
