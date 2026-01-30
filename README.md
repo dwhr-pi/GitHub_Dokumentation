@@ -22,10 +22,11 @@
 - [Branches](03_grundlegende_konzepte.md#Branches)
 - [Commits](03_grundlegende_konzepte.md#Commits)
 - [Pull Requests](03_grundlegende_konzepte.md#Pull_Requests)
-- [Forks](03_grundlegende_konzepte.md#Forks)
+- [Forks](03_grundlegende_konzepte.md#Forks) - fehlt
 - [Issues und Projektmanagement](03_grundlegende_konzepte.md#Issues_und_Projektmanagement)
 - [GitHub Actions](03_grundlegende_konzepte.md#GitHub_Actions)
-- [GitHub Flow](03_grundlegende_konzepte.md#)
+- [GitHub Flow](03_grundlegende_konzepte.md#GitHub_Flow) - fehlt
+- [Fazit](03_grundlegende_konzepte.md#Fazit)
 
 ### 4. Repositories erstellen und verwalten
 - Neues Repository erstellen

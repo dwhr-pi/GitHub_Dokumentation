@@ -8,6 +8,7 @@
 - [Issues und Projektmanagement](#Issues_und_Projektmanagement)
 - [GitHub Actions](#GitHub_Actions)
 - [GitHub Flow](#)
+- [Fazit](#Fazit)
 
 <A name="Repositories"></A>
 ## Repositories verstehen
@@ -541,6 +542,8 @@ Um das Beste aus GitHub Actions herauszuholen, sollten folgende Best Practices b
 
 7. **Workflow-Visualisierung**: Nutzen Sie die Visualisierungstools von GitHub, um den Fortschritt und die Ergebnisse von Workflows zu überwachen.
 
+
+<A name="Fazit"></A>
 ## Fazit
 
 Die grundlegenden Konzepte von GitHub – Repositories, Branches, Commits, Pull Requests, Issues und Actions – bilden das Fundament für effektive Softwareentwicklung und Zusammenarbeit auf der Plattform. Das Verständnis dieser Konzepte ist entscheidend, um das volle Potenzial von GitHub auszuschöpfen und erfolgreiche Projekte zu entwickeln.
