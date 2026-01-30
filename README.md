@@ -10,7 +10,7 @@
 
 ### 2. Installation und Einrichtung
 - [Konto erstellen](02_installation_und_einrichtung.md#Konto_erstellen)
-- [Profil einrichten](02_installation_und_einrichtung.md#Profil einrichten)
+- [Profil einrichten](02_installation_und_einrichtung.md#Profil_einrichten)
 - [Authentifizierung und Sicherheit](02_installation_und_einrichtung.md#Authentifizierung_und_Sicherheit)
 - [GitHub Desktop installieren](02_installation_und_einrichtung.md#GitHub_Desktop_installieren])
 - [Git-Kommandozeile einrichten](02_installation_und_einrichtung.md#Git-Kommandozeile_einrichten)
