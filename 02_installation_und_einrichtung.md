@@ -5,7 +5,7 @@
 - [Authentifizierung und Sicherheit](#Authentifizierung_und_Sicherheit)
 - [GitHub Desktop installieren](#GitHub_Desktop_installieren)
 - [Git-Kommandozeile einrichten](#Git-Kommandozeile_einrichten)
-- [SSH-Schlüssel einrichten](#Git-Kommandozeile_einrichten)
+- [SSH-Schlüssel einrichten](#SSH-Schlüssel_einrichten)
 - [Fazit](#Fazit)
 
 <A name="Konto_erstellen"></A>
