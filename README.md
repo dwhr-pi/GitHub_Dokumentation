@@ -18,14 +18,14 @@
 - [Fazit](02_installation_und_einrichtung.md#Fazit)
 
 ### 3. Grundlegende Konzepte
-- Repositories
-- Branches
-- Commits
-- Pull Requests
-- Forks
-- Issues
-- Actions
-- GitHub Flow
+- [Repositories](03_grundlegende_konzepte.md#Repositories)
+- [Branches](03_grundlegende_konzepte.md#Branches)
+- [Commits](03_grundlegende_konzepte.md#Commits)
+- [Pull Requests](03_grundlegende_konzepte.md#Pull_Requests)
+- [Forks](03_grundlegende_konzepte.md#Forks)
+- [Issues und Projektmanagement](03_grundlegende_konzepte.md#Issues_und_Projektmanagement)
+- [GitHub Actions](03_grundlegende_konzepte.md#GitHub_Actions)
+- [GitHub Flow](03_grundlegende_konzepte.md#)
 
 ### 4. Repositories erstellen und verwalten
 - Neues Repository erstellen

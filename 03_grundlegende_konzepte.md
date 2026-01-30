@@ -1,5 +1,15 @@
 # 3. Grundlegende Konzepte
 
+- [Repositories](#Repositories)
+- [Branches](#Branches)
+- [Commits](#Commits)
+- [Pull Requests](#Pull_Requests)
+- [Forks](#Forks)
+- [Issues und Projektmanagement](#Issues_und_Projektmanagement)
+- [GitHub Actions](#GitHub_Actions)
+- [GitHub Flow](#)
+
+<A name="Repositories"></A>
 ## Repositories verstehen
 
 Ein Repository (oft als "Repo" abgekürzt) ist das Herzstück von GitHub und bildet die Grundlage für jedes Projekt. Es handelt sich um einen zentralen Speicherort, der alle Projektdateien, den Versionsverlauf und die Zusammenarbeitsfunktionen enthält. Das Verständnis von Repositories ist entscheidend für die effektive Nutzung von GitHub.
@@ -90,6 +100,8 @@ Testcode wird üblicherweise in einem separaten Verzeichnis wie `tests`, `spec` 
 
 Ressourcen wie Bilder, Stylesheets, Schriftarten und andere statische Dateien werden oft in Verzeichnissen wie `assets`, `resources` oder `public` gespeichert.
 
+
+<A name="Branches"></A>
 ## Branches und Commits
 
 Branches und Commits sind fundamentale Konzepte in Git und GitHub, die es ermöglichen, den Code zu organisieren, zu verfolgen und zu verwalten. Sie bilden die Grundlage für die Versionskontrolle und die Zusammenarbeit in Softwareprojekten.
@@ -153,6 +165,7 @@ Trunk-Based Development konzentriert sich auf die regelmäßige Integration von 
 
 Diese Strategie fördert kontinuierliche Integration und reduziert Merge-Konflikte, erfordert jedoch eine starke Testautomatisierung und Disziplin im Team.
 
+<A name="Commits"></A>
 ### Was sind Commits?
 
 Ein Commit ist eine Momentaufnahme des Codes zu einem bestimmten Zeitpunkt. Jeder Commit hat eine eindeutige ID (Hash) und enthält Informationen über die Änderungen, den Autor und einen Zeitstempel. Commits bilden die Grundlage des Versionsverlaufs in Git und ermöglichen es, Änderungen nachzuverfolgen und bei Bedarf zu früheren Versionen zurückzukehren.
@@ -199,6 +212,8 @@ Vorteile von Atomic Commits:
 - Einfacheres Rückgängigmachen von Änderungen
 - Klarere Dokumentation der Codeentwicklung
 
+
+<A name="Pull_Requests"></A>
 ## Pull Requests
 
 Pull Requests (PRs) sind ein zentrales Konzept in GitHub, das die Zusammenarbeit und Code-Überprüfung erleichtert. Sie ermöglichen es Entwicklern, Änderungen vorzuschlagen, zu diskutieren und zu überprüfen, bevor sie in den Hauptcode integriert werden.
@@ -293,6 +308,8 @@ Ein typisches PR-Template könnte folgende Abschnitte enthalten:
 4. **Screenshots oder Demos**: Visuelle Darstellungen der Änderungen, falls zutreffend.
 5. **Verknüpfte Issues**: Verweise auf zugehörige Issues oder Tickets.
 
+
+<A name="Issues_und_Projektmanagement"></A>
 ## Issues und Projektmanagement
 
 Issues sind ein wesentliches Werkzeug für das Projektmanagement auf GitHub. Sie ermöglichen es, Aufgaben, Fehler und Funktionsanfragen zu verfolgen und zu organisieren. In Kombination mit anderen GitHub-Funktionen bieten sie eine umfassende Lösung für das Projektmanagement.
@@ -394,6 +411,7 @@ Discussions können verwendet werden für:
 - Ideenfindung und Brainstorming
 - Community-Engagement und Support
 
+<A name="GitHub_Actions"></A>
 ## GitHub Actions
 
 GitHub Actions ist ein leistungsstarkes Automatisierungstool, das direkt in GitHub integriert ist. Es ermöglicht die Automatisierung von Workflows für Softwareentwicklungsprozesse wie Testen, Bauen und Bereitstellen von Code.
