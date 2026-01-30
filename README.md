@@ -30,7 +30,7 @@
 
 ### 4. Repositories erstellen und verwalten
 - [Neues Repository erstellen](04_repositories_erstellen_und_verwalten.md#Neues_Repository_erstellen)
-- [Repository klonen](04_repositories_erstellen_und_verwalten.md#)
+- [Repository klonen](04_repositories_erstellen_und_verwalten.md#Repository_klonen_und_forken) - sortierung
 - [README und Lizenz hinzufügen](04_repositories_erstellen_und_verwalten.md#)
 - [.gitignore Dateien](04_repositories_erstellen_und_verwalten.md#)
 - [Repository-Einstellungen](04_repositories_erstellen_und_verwalten.md#Repository-Einstellungen_konfigurieren)

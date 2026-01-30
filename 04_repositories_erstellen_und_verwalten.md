@@ -1,7 +1,7 @@
 # 4. Repositories erstellen und verwalten
 
 - [Neues Repository erstellen](#Neues_Repository_erstellen)
-- [Repository klonen](#)
+- [Repository klonen und forken](#Repository_klonen_und_forken)
 - [README und Lizenz hinzufügen](#)
 - [.gitignore Dateien](#)
 - [Repository-Einstellungen](#Repository-Einstellungen_konfigurieren)
@@ -401,7 +401,7 @@ Das Löschen eines Repositories entfernt es dauerhaft von GitHub:
 
 Warnung: Das Löschen eines Repositories ist endgültig und kann nicht rückgängig gemacht werden. Alle Daten, Issues, Pull Requests und Wikis gehen verloren.
 
-<A name=""></A>
+<A name="Repository_klonen_und_forken"></A>
 ## Repository klonen und forken
 
 Das Klonen und Forken sind zwei verschiedene Möglichkeiten, mit bestehenden Repositories zu arbeiten.
