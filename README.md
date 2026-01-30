@@ -2,11 +2,11 @@
 
 ## Inhaltsverzeichnis
 
-### 1. Einführung in GitHub
-- Was ist GitHub?
-- Geschichte und Entwicklung
-- GitHub vs. andere Versionskontrollsysteme
-- Warum GitHub nutzen?
+### 1. [Einführung in GitHub](01_einfuehrung.md)
+- [Was ist GitHub?](01_einfuehrung.md#Was_ist_GitHub)
+- [Geschichte und Entwicklung](01_einfuehrung.md#Geschichte_und_Entwicklung)
+- [GitHub vs. andere Versionskontrollsysteme](01_einfuehrung.md#GitHub_vs._andere_Versionskontrollsysteme)
+- [Warum GitHub nutzen?](01_einfuehrung.md#Warum_GitHub_nutzen)
 
 ### 2. Installation und Einrichtung
 - Konto erstellen

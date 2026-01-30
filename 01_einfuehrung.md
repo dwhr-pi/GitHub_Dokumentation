@@ -2,6 +2,13 @@
 
 ![GitHub Logo](bilder/logos/github_logo.png)
 
+- [Was ist GitHub?[](#Was_ist_GitHub)
+- [Geschichte und Entwicklung](#Geschichte_und_Entwicklung)
+- [GitHub vs. andere Versionskontrollsysteme](#GitHub_vs._andere_Versionskontrollsysteme)
+- [Warum GitHub nutzen?](#Warum_GitHub_nutzen)
+
+
+<A name="Was_ist_GitHub"></A>
 ## Was ist GitHub?
 
 ### Video-Tutorial: Einführung in GitHub
@@ -11,6 +18,7 @@ GitHub ist eine cloudbasierte Plattform, die auf dem Open-Source-Versionskontrol
 
 GitHub wurde 2008 gegründet und hat sich seitdem zu einer unverzichtbaren Plattform für Entwickler auf der ganzen Welt entwickelt. Im Jahr 2018 wurde GitHub von Microsoft für 7,5 Milliarden US-Dollar übernommen, was die enorme Bedeutung der Plattform für die Softwareentwicklungsbranche unterstreicht.
 
+<A name="Geschichte_und_Entwicklung"></A>
 ## Geschichte und Entwicklung
 
 Die Geschichte von GitHub beginnt mit der Entwicklung von Git durch Linus Torvalds im Jahr 2005. Git wurde ursprünglich als Versionskontrollsystem für die Entwicklung des Linux-Kernels geschaffen, da die damals verfügbaren Systeme den Anforderungen des verteilten Entwicklungsteams nicht gerecht wurden.
@@ -29,6 +37,7 @@ Die wichtigsten Meilensteine in der Entwicklung von GitHub:
 
 Heute ist GitHub die Heimat von mehr als 100 Millionen Entwicklern und über 330 Millionen Repositories, darunter einige der wichtigsten Open-Source-Projekte der Welt.
 
+<A name="GitHub_vs._andere_Versionskontrollsysteme"></A>
 ## GitHub vs. andere Versionskontrollsysteme
 
 GitHub ist nicht das einzige System zur Versionskontrolle und Zusammenarbeit bei der Softwareentwicklung. Es gibt mehrere Alternativen, die jeweils ihre eigenen Stärken und Schwächen haben:
@@ -51,6 +60,7 @@ Mercurial ist wie Git ein verteiltes Versionskontrollsystem, das etwa zur gleich
 
 Die Vorteile von GitHub gegenüber diesen Alternativen liegen in der großen Community, der umfangreichen Dokumentation, der nahtlosen Integration mit anderen Entwicklungstools und der kontinuierlichen Innovation durch neue Funktionen wie GitHub Actions, GitHub Codespaces und GitHub Copilot.
 
+<A name="Warum_GitHub_nutzen"></A>
 ## Warum GitHub nutzen?
 
 Es gibt zahlreiche Gründe, warum Entwickler, Teams und Unternehmen GitHub für ihre Softwareprojekte nutzen:
