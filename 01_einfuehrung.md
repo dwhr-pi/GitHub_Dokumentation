@@ -2,7 +2,7 @@
 
 ![GitHub Logo](bilder/logos/github_logo.png)
 
-- [Was ist GitHub?[](#Was_ist_GitHub)
+- [Was ist GitHub?](#Was_ist_GitHub)
 - [Geschichte und Entwicklung](#Geschichte_und_Entwicklung)
 - [GitHub vs. andere Versionskontrollsysteme](#GitHub_vs._andere_Versionskontrollsysteme)
 - [Warum GitHub nutzen?](#Warum_GitHub_nutzen)
