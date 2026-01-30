@@ -29,13 +29,13 @@
 - [Fazit](03_grundlegende_konzepte.md#Fazit)
 
 ### 4. Repositories erstellen und verwalten
-- Neues Repository erstellen
-- Repository klonen
-- README und Lizenz hinzufügen
-- .gitignore Dateien
-- Repository-Einstellungen
-- Releases erstellen
-- Repository archivieren und löschen
+- [Neues Repository erstellen](04_repositories_erstellen_und_verwalten.md#Neues_Repository_erstellen)
+- [Repository klonen](04_repositories_erstellen_und_verwalten.md#)
+- [README und Lizenz hinzufügen](04_repositories_erstellen_und_verwalten.md#)
+- [.gitignore Dateien](04_repositories_erstellen_und_verwalten.md#)
+- [Repository-Einstellungen](04_repositories_erstellen_und_verwalten.md#Repository-Einstellungen_konfigurieren)
+- [Releases erstellen](04_repositories_erstellen_und_verwalten.md#Releases_erstellen)
+- [Repository archivieren und löschen](04_repositories_erstellen_und_verwalten.md#Repository_archivieren_und_löschen)
 
 ### 5. Git-Grundlagen für GitHub
 - Lokale Änderungen vornehmen

@@ -1,5 +1,14 @@
 # 4. Repositories erstellen und verwalten
 
+- [Neues Repository erstellen](#Neues_Repository_erstellen)
+- [Repository klonen](#)
+- [README und Lizenz hinzufügen](#)
+- [.gitignore Dateien](#)
+- [Repository-Einstellungen](#Repository-Einstellungen_konfigurieren)
+- [Releases erstellen](#Releases_erstellen)
+- [Repository archivieren und löschen](#Repository_archivieren_und_löschen)
+
+<A name="Neues_Repository_erstellen"></A>
 ## Neues Repository erstellen
 
 ![Neues Repository erstellen](bilder/repositories/neues_repository.png)
@@ -86,6 +95,7 @@ Sie können auch die Git-Kommandozeile verwenden, um ein Repository zu erstellen
 
    Hinweis: Neuere Git-Versionen verwenden "main" als Standardbranch-Namen. Ältere Versionen könnten "master" verwenden.
 
+<A name="Repository-Einstellungen_konfigurieren"></A>
 ## Repository-Einstellungen konfigurieren
 
 Nach der Erstellung eines Repositories können Sie verschiedene Einstellungen konfigurieren, um es an Ihre Bedürfnisse anzupassen.
@@ -319,6 +329,7 @@ Es gibt verschiedene Möglichkeiten, Branches zusammenzuführen:
      ```
    - Lösen Sie Konflikte, falls vorhanden, und committen Sie die Zusammenführung.
 
+<A name="Releases_erstellen"></A>
 ## Releases erstellen
 
 Releases sind ein Weg, um bestimmte Versionen Ihres Projekts zu kennzeichnen und Binärdateien oder Dokumentation bereitzustellen.
@@ -353,6 +364,7 @@ Beispiel: v1.2.3
 
 Es wird empfohlen, semantische Versionierung für Ihre Releases zu verwenden, um Benutzern klare Informationen über die Art der Änderungen zu geben.
 
+<A name="Repository_archivieren_und_löschen"></A>
 ## Repository archivieren und löschen
 
 Es kann Situationen geben, in denen Sie ein Repository archivieren oder löschen müssen.
@@ -389,6 +401,7 @@ Das Löschen eines Repositories entfernt es dauerhaft von GitHub:
 
 Warnung: Das Löschen eines Repositories ist endgültig und kann nicht rückgängig gemacht werden. Alle Daten, Issues, Pull Requests und Wikis gehen verloren.
 
+<A name=""></A>
 ## Repository klonen und forken
 
 Das Klonen und Forken sind zwei verschiedene Möglichkeiten, mit bestehenden Repositories zu arbeiten.
@@ -431,6 +444,7 @@ Nach dem Forken können Sie Änderungen an Ihrem Fork vornehmen und Pull Request
 
 - **Forken**: Erstellt eine Kopie eines Repositories in Ihrem GitHub-Konto. Dies ist nützlich, wenn Sie zu einem Projekt beitragen möchten, auf das Sie keinen direkten Schreibzugriff haben. Sie können Änderungen an Ihrem Fork vornehmen und dann einen Pull Request an das Original-Repository senden.
 
+<A name="Fazit"></A>
 ## Fazit
 
 Die Erstellung und Verwaltung von Repositories ist ein grundlegender Aspekt der Arbeit mit GitHub. Mit den in diesem Kapitel beschriebenen Techniken können Sie Repositories erstellen, konfigurieren und verwalten, um Ihre Projekte effektiv zu organisieren und mit anderen zusammenzuarbeiten.
