@@ -1,2 +1,120 @@
-# GitHub_Dokumentation
-Eine Deutschsprachige GitHub Dokumentation, um sich besser mit Gihub zurecht zu finden.
+# GitHub Bedienungsanleitung
+
+## Inhaltsverzeichnis
+
+### 1. Einführung in GitHub
+- Was ist GitHub?
+- Geschichte und Entwicklung
+- GitHub vs. andere Versionskontrollsysteme
+- Warum GitHub nutzen?
+
+### 2. Installation und Einrichtung
+- Konto erstellen
+- Profil einrichten
+- Authentifizierung und Sicherheit
+- GitHub Desktop installieren
+- Git-Kommandozeile einrichten
+- SSH-Schlüssel einrichten
+
+### 3. Grundlegende Konzepte
+- Repositories
+- Branches
+- Commits
+- Pull Requests
+- Forks
+- Issues
+- Actions
+- GitHub Flow
+
+### 4. Repositories erstellen und verwalten
+- Neues Repository erstellen
+- Repository klonen
+- README und Lizenz hinzufügen
+- .gitignore Dateien
+- Repository-Einstellungen
+- Releases erstellen
+- Repository archivieren und löschen
+
+### 5. Git-Grundlagen für GitHub
+- Lokale Änderungen vornehmen
+- Änderungen committen
+- Pushen und Pullen
+- Branches erstellen und wechseln
+- Merge-Konflikte lösen
+- Rebase vs. Merge
+- Git-History verstehen und bearbeiten
+
+### 6. Zusammenarbeit auf GitHub
+- Kollaborateure hinzufügen
+- Pull Requests erstellen und reviewen
+- Code-Reviews durchführen
+- Kommentare und Diskussionen
+- Änderungen vorschlagen
+- Merge-Strategien
+- Branch-Schutzregeln
+
+### 7. GitHub Issues und Projektmanagement
+- Issues erstellen und verwalten
+- Labels und Meilensteine
+- Projektboards
+- Kanban-Ansicht
+- Automatisierung in Projekten
+- Issues mit Pull Requests verknüpfen
+- Aufgabenlisten
+
+### 8. GitHub Actions und CI/CD
+- Einführung in GitHub Actions
+- Workflows erstellen
+- YAML-Syntax für Actions
+- Vordefinierte Actions nutzen
+- Eigene Actions erstellen
+- Continuous Integration einrichten
+- Continuous Deployment konfigurieren
+
+### 9. GitHub Pages
+- Statische Websites mit GitHub Pages
+- Jekyll-Themes verwenden
+- Benutzerdefinierte Domains einrichten
+- Projektdokumentation mit Pages
+- SEO für GitHub Pages
+
+### 10. GitHub für Entwickler
+- GitHub CLI
+- GitHub API
+- GitHub Codespaces
+- GitHub Copilot
+- Entwicklungsumgebungen integrieren
+- Extensions und Integrationen
+- Mobile App nutzen
+
+### 11. GitHub für Teams
+- Organisationen erstellen und verwalten
+- Teams und Berechtigungen
+- Diskussionen und Wikis
+- Teamworkflows
+- Code-Richtlinien durchsetzen
+- Codebase-Qualität überwachen
+
+### 12. Sicherheit auf GitHub
+- Dependabot und Sicherheitsupdates
+- Code-Scanning und SAST
+- Secret-Scanning
+- Sicherheitsrichtlinien
+- Zwei-Faktor-Authentifizierung
+- Zugriffsrechte verwalten
+
+### 13. GitHub erweiterte Funktionen
+- GitHub Packages
+- GitHub Sponsors
+- GitHub Marketplace
+- GitHub Learning Lab
+- GitHub Discussions
+- GitHub Insights und Statistiken
+- GitHub Enterprise
+
+### 14. Glossar und Referenzen
+- Wichtige Begriffe
+- Tastenkürzel
+- Git-Befehle Übersicht
+- Nützliche Links und Ressourcen
+- Community-Richtlinien
