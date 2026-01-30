@@ -7,6 +7,7 @@
 - [Repository-Einstellungen](#Repository-Einstellungen_konfigurieren)
 - [Releases erstellen](#Releases_erstellen)
 - [Repository archivieren und löschen](#Repository_archivieren_und_löschen)
+- [Fazit](#Fazit)
 
 <A name="Neues_Repository_erstellen"></A>
 ## Neues Repository erstellen

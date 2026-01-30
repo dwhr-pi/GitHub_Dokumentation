@@ -31,11 +31,12 @@
 ### 4. Repositories erstellen und verwalten
 - [Neues Repository erstellen](04_repositories_erstellen_und_verwalten.md#Neues_Repository_erstellen)
 - [Repository klonen](04_repositories_erstellen_und_verwalten.md#Repository_klonen_und_forken) - sortierung
-- [README und Lizenz hinzufügen](04_repositories_erstellen_und_verwalten.md#)
-- [.gitignore Dateien](04_repositories_erstellen_und_verwalten.md#)
+- [README und Lizenz hinzufügen](04_repositories_erstellen_und_verwalten.md#)- fehlt
+- [.gitignore Dateien](04_repositories_erstellen_und_verwalten.md#)- fehlt
 - [Repository-Einstellungen](04_repositories_erstellen_und_verwalten.md#Repository-Einstellungen_konfigurieren)
 - [Releases erstellen](04_repositories_erstellen_und_verwalten.md#Releases_erstellen)
 - [Repository archivieren und löschen](04_repositories_erstellen_und_verwalten.md#Repository_archivieren_und_löschen)
+- [Fazit](04_repositories_erstellen_und_verwalten.md#Fazit)
 
 ### 5. Git-Grundlagen für GitHub
 - Lokale Änderungen vornehmen
