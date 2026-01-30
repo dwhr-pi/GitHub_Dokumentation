@@ -278,7 +278,7 @@ Nach der Installation müssen Sie Git mit Ihren Benutzerinformationen konfigurie
 
 Um mit GitHub über die Befehlszeile zu interagieren, müssen Sie eine Authentifizierungsmethode einrichten. Die empfohlenen Methoden sind:
 
-1. **SSH-Authentifizierung**: Wie im Abschnitt "[SSH-Schlüssel einrichten]#SSH-Schlüssel_einrichten)" beschrieben.
+1. **SSH-Authentifizierung**: Wie im Abschnitt "[SSH-Schlüssel einrichten](#SSH-Schlüssel_einrichten)" beschrieben.
 
 2. **HTTPS mit Credential Helper**:
    - Unter Windows:
