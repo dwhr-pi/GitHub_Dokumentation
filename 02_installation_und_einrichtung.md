@@ -144,45 +144,7 @@ Um ein persönliches Zugriffstoken zu erstellen:
 
 5. Kopieren Sie das Token und speichern Sie es an einem sicheren Ort. Aus Sicherheitsgründen wird GitHub das Token nicht erneut anzeigen.
 
-<A name="SSH-Schlüssel_einrichten"></A>
-### SSH-Schlüssel einrichten
-
-SSH-Schlüssel bieten eine sichere Möglichkeit, sich bei GitHub zu authentifizieren, ohne jedes Mal Ihren Benutzernamen und Ihr Passwort eingeben zu müssen. Sie sind besonders nützlich für die Interaktion mit GitHub über die Befehlszeile.
-
-Um einen SSH-Schlüssel einzurichten:
-
-1. Öffnen Sie ein Terminal (Linux/Mac) oder Git Bash (Windows).
-
-2. Generieren Sie ein neues SSH-Schlüsselpaar mit dem Befehl:
-   ```
-   ssh-keygen -t ed25519 -C "ihre-email@beispiel.de"
-   ```
-
-3. Wenn Sie zur Eingabe eines Dateinamens aufgefordert werden, drücken Sie Enter, um den Standarddateinamen zu akzeptieren.
-
-4. Geben Sie eine sichere Passphrase ein, wenn Sie dazu aufgefordert werden.
-
-5. Starten Sie den SSH-Agenten mit dem Befehl:
-   ```
-   eval "$(ssh-agent -s)"
-   ```
-
-6. Fügen Sie Ihren privaten SSH-Schlüssel zum SSH-Agenten hinzu:
-   ```
-   ssh-add ~/.ssh/id_ed25519
-   ```
-
-7. Kopieren Sie den Inhalt Ihrer öffentlichen SSH-Schlüsseldatei in die Zwischenablage:
-   - Unter Linux/Mac: `cat ~/.ssh/id_ed25519.pub | xclip -selection clipboard`
-   - Unter Windows: `cat ~/.ssh/id_ed25519.pub | clip`
-
-8. Gehen Sie zu Ihren GitHub-Kontoeinstellungen und klicken Sie im linken Seitenmenü auf "SSH und GPG-Schlüssel".
-
-9. Klicken Sie auf "Neuen SSH-Schlüssel hinzufügen", geben Sie einen Titel ein und fügen Sie den kopierten öffentlichen Schlüssel in das Feld "Schlüssel" ein.
-
-10. Klicken Sie auf "SSH-Schlüssel hinzufügen", um den Vorgang abzuschließen.
-
-<A name=""></A>
+<A name="GitHub_Desktop_installieren"></A>
 ## GitHub Desktop installieren
 
 GitHub Desktop ist eine benutzerfreundliche Anwendung, die es Ihnen ermöglicht, mit GitHub zu interagieren, ohne Befehlszeilenbefehle verwenden zu müssen. Es ist ideal für Anfänger und für diejenigen, die eine visuelle Oberfläche bevorzugen.
@@ -350,6 +312,45 @@ Hier sind einige grundlegende Git-Befehle, die Sie kennen sollten:
 - `git status`: Zeigt den Status des Arbeitsverzeichnisses an
 
 Diese Befehle bilden die Grundlage für die Arbeit mit Git und GitHub über die Befehlszeile.
+
+<A name="SSH-Schlüssel_einrichten"></A>
+### SSH-Schlüssel einrichten
+
+SSH-Schlüssel bieten eine sichere Möglichkeit, sich bei GitHub zu authentifizieren, ohne jedes Mal Ihren Benutzernamen und Ihr Passwort eingeben zu müssen. Sie sind besonders nützlich für die Interaktion mit GitHub über die Befehlszeile.
+
+Um einen SSH-Schlüssel einzurichten:
+
+1. Öffnen Sie ein Terminal (Linux/Mac) oder Git Bash (Windows).
+
+2. Generieren Sie ein neues SSH-Schlüsselpaar mit dem Befehl:
+   ```
+   ssh-keygen -t ed25519 -C "ihre-email@beispiel.de"
+   ```
+
+3. Wenn Sie zur Eingabe eines Dateinamens aufgefordert werden, drücken Sie Enter, um den Standarddateinamen zu akzeptieren.
+
+4. Geben Sie eine sichere Passphrase ein, wenn Sie dazu aufgefordert werden.
+
+5. Starten Sie den SSH-Agenten mit dem Befehl:
+   ```
+   eval "$(ssh-agent -s)"
+   ```
+
+6. Fügen Sie Ihren privaten SSH-Schlüssel zum SSH-Agenten hinzu:
+   ```
+   ssh-add ~/.ssh/id_ed25519
+   ```
+
+7. Kopieren Sie den Inhalt Ihrer öffentlichen SSH-Schlüsseldatei in die Zwischenablage:
+   - Unter Linux/Mac: `cat ~/.ssh/id_ed25519.pub | xclip -selection clipboard`
+   - Unter Windows: `cat ~/.ssh/id_ed25519.pub | clip`
+
+8. Gehen Sie zu Ihren GitHub-Kontoeinstellungen und klicken Sie im linken Seitenmenü auf "SSH und GPG-Schlüssel".
+
+9. Klicken Sie auf "Neuen SSH-Schlüssel hinzufügen", geben Sie einen Titel ein und fügen Sie den kopierten öffentlichen Schlüssel in das Feld "Schlüssel" ein.
+
+10. Klicken Sie auf "SSH-Schlüssel hinzufügen", um den Vorgang abzuschließen.
+
 
 <A name="Fazit"></A>
 ## Fazit
