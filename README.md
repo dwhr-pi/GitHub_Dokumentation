@@ -39,85 +39,85 @@
 - [Fazit](04_repositories_erstellen_und_verwalten.md#Fazit)
 
 ### 5. Git-Grundlagen für GitHub
-- Lokale Änderungen vornehmen
-- Änderungen committen
-- Pushen und Pullen
-- Branches erstellen und wechseln
-- Merge-Konflikte lösen
-- Rebase vs. Merge
-- Git-History verstehen und bearbeiten
+- [Lokale Änderungen vornehmen](#)
+- [Änderungen committen](#)
+- [Pushen und Pullen](#)
+- [Branches erstellen und wechseln](#)
+- [Merge-Konflikte lösen](#)
+- [Rebase vs. Merge](#)
+- [Git-History verstehen und bearbeiten](#)
 
 ### 6. Zusammenarbeit auf GitHub
-- Kollaborateure hinzufügen
-- Pull Requests erstellen und reviewen
-- Code-Reviews durchführen
-- Kommentare und Diskussionen
-- Änderungen vorschlagen
-- Merge-Strategien
-- Branch-Schutzregeln
+- [Kollaborateure hinzufügen](#)
+- [Pull Requests erstellen und reviewen](#)
+- [Code-Reviews durchführen](#)
+- [Kommentare und Diskussionen](#)
+- [Änderungen vorschlagen](#)
+- [Merge-Strategien](#)
+- [Branch-Schutzregeln](#)
 
 ### 7. GitHub Issues und Projektmanagement
-- Issues erstellen und verwalten
-- Labels und Meilensteine
-- Projektboards
-- Kanban-Ansicht
-- Automatisierung in Projekten
-- Issues mit Pull Requests verknüpfen
-- Aufgabenlisten
+- [Issues erstellen und verwalten](#)
+- [Labels und Meilensteine](#)
+- [Projektboards](#)
+- [Kanban-Ansicht](#)
+- [Automatisierung in Projekten](#)
+- [Issues mit Pull Requests verknüpfen](#)
+- [Aufgabenlisten](#)
 
 ### 8. GitHub Actions und CI/CD
-- Einführung in GitHub Actions
-- Workflows erstellen
-- YAML-Syntax für Actions
-- Vordefinierte Actions nutzen
-- Eigene Actions erstellen
-- Continuous Integration einrichten
-- Continuous Deployment konfigurieren
+- [Einführung in GitHub Actions](#)
+- [Workflows erstellen](#)
+- [YAML-Syntax für Actions](#)
+- [Vordefinierte Actions nutzen](#)
+- [Eigene Actions erstellen](#)
+- [Continuous Integration einrichten](#)
+- [Continuous Deployment konfigurieren](#)
 
 ### 9. GitHub Pages
-- Statische Websites mit GitHub Pages
-- Jekyll-Themes verwenden
-- Benutzerdefinierte Domains einrichten
-- Projektdokumentation mit Pages
-- SEO für GitHub Pages
+- [Statische Websites mit GitHub Pages](#)
+- [Jekyll-Themes verwenden](#)
+- [Benutzerdefinierte Domains einrichten](#)
+- [Projektdokumentation mit Pages](#)
+- [SEO für GitHub Pages](#)
 
 ### 10. GitHub für Entwickler
-- GitHub CLI
-- GitHub API
-- GitHub Codespaces
-- GitHub Copilot
-- Entwicklungsumgebungen integrieren
-- Extensions und Integrationen
-- Mobile App nutzen
+- [GitHub CLI](#)
+- [GitHub API](#)
+- [GitHub Codespaces](#)
+- [GitHub Copilot](#)
+- [Entwicklungsumgebungen integrieren](#)
+- [Extensions und Integrationen](#)
+- [Mobile App nutzen](#)
 
 ### 11. GitHub für Teams
-- Organisationen erstellen und verwalten
-- Teams und Berechtigungen
-- Diskussionen und Wikis
-- Teamworkflows
-- Code-Richtlinien durchsetzen
-- Codebase-Qualität überwachen
+- [Organisationen erstellen und verwalten](#)
+- [Teams und Berechtigungen](#)
+- [Diskussionen und Wikis](#)
+- [Teamworkflows](#)
+- [Code-Richtlinien durchsetzen](#)
+- [Codebase-Qualität überwachen](#)
 
 ### 12. Sicherheit auf GitHub
-- Dependabot und Sicherheitsupdates
-- Code-Scanning und SAST
-- Secret-Scanning
-- Sicherheitsrichtlinien
-- Zwei-Faktor-Authentifizierung
-- Zugriffsrechte verwalten
+- [Dependabot und Sicherheitsupdates](#)
+- [Code-Scanning und SAST](#)
+- [Secret-Scanning](#)
+- [Sicherheitsrichtlinien](#)
+- [Zwei-Faktor-Authentifizierung](#)
+- [Zugriffsrechte verwalten](#)
 
 ### 13. GitHub erweiterte Funktionen
-- GitHub Packages
-- GitHub Sponsors
-- GitHub Marketplace
-- GitHub Learning Lab
-- GitHub Discussions
-- GitHub Insights und Statistiken
-- GitHub Enterprise
+- [GitHub Packages](#)
+- [GitHub Sponsors](#)
+- [GitHub Marketplace](#)
+- [GitHub Learning Lab](#)
+- [GitHub Discussions](#)
+- [GitHub Insights und Statistiken](#)
+- [GitHub Enterprise](#)
 
 ### 14. Glossar und Referenzen
-- Wichtige Begriffe
-- Tastenkürzel
-- Git-Befehle Übersicht
-- Nützliche Links und Ressourcen
-- Community-Richtlinien
+- [Wichtige Begriffe](#)
+- [Tastenkürzel](#)
+- [Git-Befehle Übersicht](#)
+- [Nützliche Links und Ressourcen](#)
+- [Community-Richtlinien](#)

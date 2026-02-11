@@ -1,5 +1,13 @@
 # 13. GitHub erweiterte Funktionen
 
+- [GitHub Packages](#)
+- [GitHub Sponsors](#)
+- [GitHub Marketplace](#)
+- [GitHub Learning Lab](#)
+- [GitHub Discussions](#)
+- [GitHub Insights und Statistiken](#)
+- [GitHub Enterprise](#)
+
 ## GitHub Copilot und KI-Funktionen
 
 GitHub Copilot und andere KI-gestützte Funktionen revolutionieren die Art und Weise, wie Entwickler Code schreiben und mit GitHub interagieren. Diese Werkzeuge nutzen künstliche Intelligenz, um Entwicklern bei verschiedenen Aufgaben zu helfen, von der Code-Vervollständigung bis hin zur Fehlerbehebung.

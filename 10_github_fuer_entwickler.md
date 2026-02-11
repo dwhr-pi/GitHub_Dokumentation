@@ -1,5 +1,13 @@
 # 10. GitHub für Entwickler
 
+- [GitHub CLI](#)
+- [GitHub API](#)
+- [GitHub Codespaces](#)
+- [GitHub Copilot](#)
+- [Entwicklungsumgebungen integrieren](#)
+- [Extensions und Integrationen](#)
+- [Mobile App nutzen](#)
+
 ## Entwicklungsumgebungen und GitHub
 
 Die Integration von GitHub in Ihre Entwicklungsumgebung kann Ihren Workflow erheblich verbessern und effizienter gestalten. Moderne Entwicklungsumgebungen bieten verschiedene Möglichkeiten, nahtlos mit GitHub zu interagieren, ohne die IDE verlassen zu müssen.

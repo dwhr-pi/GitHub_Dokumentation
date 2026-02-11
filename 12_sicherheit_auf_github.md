@@ -1,5 +1,12 @@
 # 12. Sicherheit auf GitHub
 
+- [Dependabot und Sicherheitsupdates](#)
+- [Code-Scanning und SAST](#)
+- [Secret-Scanning](#)
+- [Sicherheitsrichtlinien](#)
+- [Zwei-Faktor-Authentifizierung](#)
+- [Zugriffsrechte verwalten](#)
+
 ## Grundlagen der Sicherheit auf GitHub
 
 Die Sicherheit von Code und Daten ist ein zentraler Aspekt der modernen Softwareentwicklung. GitHub bietet eine Vielzahl von Funktionen und Best Practices, um die Sicherheit Ihrer Repositories und Projekte zu gewährleisten.

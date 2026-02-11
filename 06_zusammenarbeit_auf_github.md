@@ -1,5 +1,13 @@
 # 6. Zusammenarbeit auf GitHub
 
+- [Kollaborateure hinzufügen](#)
+- [Pull Requests erstellen und reviewen](#)
+- [Code-Reviews durchführen](#)
+- [Kommentare und Diskussionen](#)
+- [Änderungen vorschlagen](#)
+- [Merge-Strategien](#)
+- [Branch-Schutzregeln](#)
+
 ## Grundlagen der Zusammenarbeit
 
 ![Pull Request erstellen](bilder/pull_requests/pull_request_erstellen.png)

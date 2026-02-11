@@ -1,5 +1,12 @@
 # 11. GitHub für Teams
 
+- [Organisationen erstellen und verwalten](#)
+- [Teams und Berechtigungen](#)
+- [Diskussionen und Wikis](#)
+- [Teamworkflows](#)
+- [Code-Richtlinien durchsetzen](#)
+- [Codebase-Qualität überwachen](#)
+
 ## Organisationen und Teams in GitHub
 
 GitHub Organisationen bieten eine strukturierte Möglichkeit für Unternehmen, Gruppen und Open-Source-Projekte, ihre Arbeit zu organisieren und zu verwalten. Sie ermöglichen eine zentrale Verwaltung von Repositories, Berechtigungen und Teammitgliedern.

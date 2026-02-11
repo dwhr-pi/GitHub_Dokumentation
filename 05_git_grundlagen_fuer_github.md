@@ -1,5 +1,13 @@
 # 5. Git-Grundlagen für GitHub
 
+- [Lokale Änderungen vornehmen](#)
+- [Änderungen committen](#)
+- [Pushen und Pullen](#)
+- [Branches erstellen und wechseln](#)
+- [Merge-Konflikte lösen](#)
+- [Rebase vs. Merge](#)
+- [Git-History verstehen und bearbeiten](#)
+
 ## Einführung in Git
 
 ### Video-Tutorial: Git-Grundlagen

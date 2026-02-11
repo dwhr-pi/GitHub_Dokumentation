@@ -1,5 +1,11 @@
 # 9. GitHub Pages
 
+- [Statische Websites mit GitHub Pages](#)
+- [Jekyll-Themes verwenden](#)
+- [Benutzerdefinierte Domains einrichten](#)
+- [Projektdokumentation mit Pages](#)
+- [SEO für GitHub Pages](#)
+
 ## Einführung in GitHub Pages
 
 ![GitHub Pages Website](bilder/pages/github_pages_website.png)

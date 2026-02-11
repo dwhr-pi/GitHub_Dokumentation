@@ -1,5 +1,13 @@
 # 7. GitHub Issues und Projektmanagement
 
+- [Issues erstellen und verwalten](#)
+- [Labels und Meilensteine](#)
+- [Projektboards](#)
+- [Kanban-Ansicht](#)
+- [Automatisierung in Projekten](#)
+- [Issues mit Pull Requests verknüpfen](#)
+- [Aufgabenlisten](#)
+
 ## Einführung in GitHub Issues
 
 ### Video-Tutorial: GitHub Issues

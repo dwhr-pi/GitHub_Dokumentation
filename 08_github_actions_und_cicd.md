@@ -1,5 +1,13 @@
 # 8. GitHub Actions und CI/CD
 
+- [Einführung in GitHub Actions](#)
+- [Workflows erstellen](#)
+- [YAML-Syntax für Actions](#)
+- [Vordefinierte Actions nutzen](#)
+- [Eigene Actions erstellen](#)
+- [Continuous Integration einrichten](#)
+- [Continuous Deployment konfigurieren](#)
+
 ## Einführung in GitHub Actions
 
 ![GitHub Actions Workflow](bilder/actions/actions_workflow.png)

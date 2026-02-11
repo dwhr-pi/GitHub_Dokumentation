@@ -1,5 +1,11 @@
 # 14. Glossar und Referenzen
 
+- [Wichtige Begriffe](#)
+- [Tastenkürzel](#)
+- [Git-Befehle Übersicht](#)
+- [Nützliche Links und Ressourcen](#)
+- [Community-Richtlinien](#)
+
 ## GitHub-Glossar
 
 Dieses Glossar enthält wichtige Begriffe und Konzepte, die im Zusammenhang mit GitHub und Git verwendet werden. Es dient als Nachschlagewerk für Anfänger und erfahrene Benutzer gleichermaßen.
