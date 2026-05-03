@@ -121,9 +121,4 @@
 - [Git-Befehle Übersicht](#)
 - [Nützliche Links und Ressourcen](#)
 - [Community-Richtlinien](#)
-Zip16 strategie19 bei manus
 
-wsl -d Ubuntu
-
-Ich brauche jetzt eine Desktopverknüpfung für Windows 11 um mit OpenClaw und Ollama (alles innerhalb in Unbuntu installiert) endlich agieren zu können. 
-Bitte füge ein Warteschleife hinzu, da sich zeigte, das nach dem Start des Betriebssystems ich rund 5-10 Minuten lang zu warten habe. Da ansonsten leider ein Timeout zum Starten der WSL kommt. Es soll exakt "wsl -d Ubuntu" gestartet werden und nicht nur die wsl. Zusätzlich möchte ich das richtige Webinterface hierzu im Chrome Browser geöffnet haben. 
